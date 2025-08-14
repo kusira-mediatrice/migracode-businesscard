@@ -39,3 +39,7 @@ open index.html
 ## Contact
 
 You can connect with me on [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/kusira-finance-analytic).
+
+## Credit
+
+Je remercie les instructeurs de **Migracode** et **Scrimba**.
