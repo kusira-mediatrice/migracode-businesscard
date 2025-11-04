@@ -38,7 +38,7 @@ open index.html
 
 ## Contact
 
-You can connect with me on [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/kusira-finance-analytic).
+You can connect with me on [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/kusira-finance-analytic) and call me at +34 66.
 
 ## Credit
 
